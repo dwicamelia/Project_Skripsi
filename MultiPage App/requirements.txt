@@ -227,3 +227,4 @@ zipp=3.8.1=pypi_0
 zlib=1.2.12=h8cc25b3_2
 zope-interface=5.4.0=pypi_0
 zstd=1.5.2=h19a0ad4_0
+virtualenv-clone-0.5.7
