@@ -8,3 +8,10 @@ google-cloud-firestore==2.3.4
 stream-python-5.1.1
 python-streams-0.2.0
 mplfinance-0.12.9b1
+numpy
+scikit-learn
+DateTime
+yahoo-finance
+python-math
+plotly
+matplotlib
